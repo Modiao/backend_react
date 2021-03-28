@@ -126,6 +126,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = "/Users/modoudiao/Documents/django_react/versel/backend_react/static"
+STATIC_ROOT = "./backend/static"
 # or, eg,
 STATIC_ROOT = os.path.join(BASE_DIR, "static")
