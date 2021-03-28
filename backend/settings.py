@@ -25,7 +25,7 @@ SECRET_KEY = '@jkx86=_xb9poga@q4)#(1b#e1b@_dn(w*lx%*#!ogw$9g=jrw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["backendcrudreact.herokuapp.com"]
 
 
 # Application definition
